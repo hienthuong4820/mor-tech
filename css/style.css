@@ -11,6 +11,7 @@ a {
 }
 a:hover {
     color: #fec503;
+    font-weight: bold;
 }
 p {
     line-height: 1.75;
